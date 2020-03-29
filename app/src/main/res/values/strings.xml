@@ -1,0 +1,40 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <!--Header text for the list of toppings[CHAR LIMIT=20]-->
+    <string name="toppings">Toppings</string>
+
+    <!--Header text for the name[CHAR LIMIT=NONE]-->
+    <string name="name">Name</string>
+
+    <!--Header text for Whipped cream[CHAR LIMIT=20]-->
+    <string name="whipped_cream">Whipped cream</string>
+
+    <!--Header text for Chocolate[CHAR LIMIT=20]-->
+    <string name="chocolate">Chocolate</string>
+
+    <!--Header text for Quantity[CHAR LIMIT=20]-->
+    <string name="quantity">Quantity</string>
+
+    <!--Header text for Order[CHAR LIMIT=20]-->
+    <string name="order">Order</string>
+
+    <!--Thank you messege for the order summary[CHAR LIMIT=NONE]-->
+    <string name="thank_you">Thank you!</string>
+
+    <!--Name for the order summary. It will shown in the format of Name: Amy  [CHAR LIMIT=NONE-->
+    <string name="order_summary_name">"Name: "</string>
+
+    <!--Add whiped cream messege for the order summary[CHAR LIMIT=NONE]-->
+    <string name="add_whipped_cream">Add whipped cream? </string>
+
+    <!--Add chocolate messege for the order summary[CHAR LIMIT=NONE]-->
+    <string name="add_chocolate">Add chocolate? </string>
+
+    <!--Price messege for the order summary[CHAR LIMIT=NONE]-->
+    <string name="total">Total $</string>
+
+    <!--Messege for more the 100 coffees[CHAR LIMIT=NONE]-->
+    <string name="more_coffees">You cannot have more than 100 coffees</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="add_chocolate">С шоколад</string>
+    <string name="add_whipped_cream">Със сметана</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="more_coffees">Не може да поръчате повече от 100 кафета</string>
+    <string name="name">Име</string>
+    <string name="order">Поръчка</string>
+    <string name="order_summary_name">"Име: "</string>
+    <string name="quantity">Количество</string>
+    <string name="thank_you">Благодаря !</string>
+    <string name="toppings">Добавки</string>
+    <string name="total">Цена $</string>
+    <string name="whipped_cream">Добавена сметана</string>
+</resources>
